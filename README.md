@@ -26,13 +26,12 @@ This repository includes the full **Visual Studio Solution** so you can run it i
 
 1. **Clone/Download:** Download this repository as a ZIP file and extract it.
 2. **Open Project:** Double-click the `Shooter.sln` file to open it in **Visual Studio 2022 or 2026**.
-3. **Setup SFML:** Ensure you have the **SFML 2.6.x** libraries linked in your project properties (or use the provided DLLs in the root folder).
+3. **Setup SFML:** Ensure you have the **SFML 2.6.x** libraries linked in your project properties (or use the provided DLLs in the root folder or use zipped folder).
 4. **Compile & Run:** Press **F5** (Local Windows Debugger) to start the game!
 
 **Controls:**
 * **Arrow Keys:** Rotate and move the spaceship.
 * **Spacebar:** Fire bullets.
-* **R Key:** Restart game after Game Over.
 * **Esc:** Exit game.
 
 ---
