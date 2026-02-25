@@ -32,6 +32,7 @@ This repository includes the full **Visual Studio Solution** so you can run it i
 **Controls:**
 * **Arrow Keys:** Rotate and move the spaceship.
 * **Spacebar:** Fire bullets.
+* **R:** To restart.
 * **Esc:** Exit game.
 
 ---
